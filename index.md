@@ -16,11 +16,8 @@ Syntax highlighted code block
 - Ice breakers to start class
 - Password to quizzes
 - More personalized teaching than CS180
+- I get to learn how to code
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
